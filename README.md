@@ -1,6 +1,4 @@
-# Area-Calculator
-
-
+# Area Calculator
 
 A simple yet powerful Area Calculator application built using Python and Tkinter. This tool provides a graphical interface for calculating the area of various geometric shapes like rectangles, circles, triangles, and more. Designed to be user-friendly, it helps users quickly perform area calculations with an intuitive and interactive GUI. This project is perfect for those who are learning Python and want to explore GUI development using Tkinter.
 
